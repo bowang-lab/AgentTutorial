@@ -1,0 +1,9 @@
+jsonlib-python3
+python-dotenv
+langgraph
+pydantic
+langchain-community
+langchain-core
+langchain-openai
+ipython
+jupyter
