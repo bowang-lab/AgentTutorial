@@ -1,6 +1,12 @@
 # AgentTutorial
 
 Install the following packages to run the notebook.
+
+```
+pip install -r requirements.txt
+```
+
+or install them directly for a current environment:
 ```
 jsonlib-python3
 python-dotenv
